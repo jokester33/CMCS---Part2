@@ -38,5 +38,3 @@ CMCS allows lecturers to submit claims for their worked hours, which can then be
 - **C#**
 
 ---
-
-## 🧩 Folder Structure
